@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Aaron Foote",
-    "label": "Scientist",
+    "label": "CS Masters Student",
     "image": "",
     "email": "afoote@wesleyan.edu",
     "phone": "(914) 523 2738",
@@ -22,16 +22,31 @@
       }
     ]
   },
-  "work": [
+  "Research Interests": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "keywords": [
+        "Interpretable ML",
+        "Application-driven methods for learning",
+        "Computational complexity",
+        "Statistics in sports",
+        "Combinatorial games
+      ]
     }
+  ],
+  "Teaching": [
+    {
+      "position": "Senior Quantitative Analysis Tutor",
+      "startDate": "2023-04-01",
+      "endDate": "Present",
+      "summary": "Assist students with statistics, data science, computer science, and econometrics coursework. I additionally provide consultation to students on semester long projects and professors on the use of statistical software and methods in their research."
+    },
+    {
+      "position": "Teaching Assistant",
+      "startDate": "2023-04-01",
+      "endDate": "2024-09-01",
+      "summary": "Assist students with statistics, data science, computer science, and econometrics coursework. I additionally provide consultation to students on semester long projects and professors on the use of statistical software and methods in their research."
+    },
+    
   ],
   "volunteer": [
     {
