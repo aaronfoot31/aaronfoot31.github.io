@@ -1,13 +1,13 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Player Tracking Data Project
+description: Evaluating Contribution to Stopping the Run Through Density Estimation of Game Outcomes
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
-
+This project uses tracking data provided by the [2024 Kaggle NFL Big Data Bowl](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024). The theme in 2024 was tackling. I decided to evaluate rush defense. I'm presenting this project at the [Cascadia Symposium on Statistics in Sports](http://www.cascadiasports.com/) in September. I haven't figured out how to implement comments on my site yet, so if you've got an opinion or want to talk about this project shoot me an email. 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
