@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with bibliography
-date: 2023-07-12 09:56:00-0400
-description: an example of a blog post with bibliography
+title: Papers I Like
+date: 2024-07-18 09:56:00-0400
+description: This is a running (yet incomplete) list of papers I've read that I think are pretty cool.
 tags: formatting bib
 categories: sample-posts
 giscus_comments: true
